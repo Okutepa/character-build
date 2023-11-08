@@ -2,7 +2,7 @@
 Boondocks Character Showcase
 
 ## About the project 
-![Alt text](img\Desktop-page.png)
+![Boondocks Homepage](img\Desktop-page.png)
 This project is a fun and informative way for fans of "The Boondocks" to delve deeper into the show's characters and appreciate their unique qualities. Enjoy exploring the world of the Boondocks characters!
 
 ## Contributing 
